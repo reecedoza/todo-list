@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+#container {
+    width: 360px;
+    margin: 0 auto;
+    border: 2px solid gray;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.list-item {
+    transition: all 500ms;
+}
+
+.deleted {
+    display: none;
+}
+
+.visually-deleted {
+    opacity: 0;
+}
