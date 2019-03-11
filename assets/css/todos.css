@@ -14,7 +14,7 @@ body {
 }
 
 .list-item {
-    transition: all 500ms;
+    transition: all 300ms;
 }
 
 .deleted {
